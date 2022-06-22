@@ -24,3 +24,5 @@ nodes have to cooperate with one another to function with each other.
 
 
 Normal Node: as per the requirement the function the way they are supposed to function.
+
+![Alt text](capture-1.JPG?raw=true "Node Behavior")
